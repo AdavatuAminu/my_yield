@@ -1,7 +1,1 @@
 # aws-amplify-react
-
-
-
-
-
-
