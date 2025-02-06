@@ -1,0 +1,55 @@
+{
+  "name": "my_yield",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@aws-amplify/api": "^6.2.2",
+    "@aws-amplify/api-graphql": "^4.7.2",
+    "@aws-amplify/api-rest": "^4.0.67",
+    "@aws-amplify/ui-react": "^6.9.1",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "ajv": "^6.12.6",
+    "ajv-formats": "^3.0.1",
+    "ajv-keywords": "^3.5.2",
+    "aws-amplify": "^6.12.2",
+    "aws-amplify-react": "^2.6.3",
+    "react": "^19.0.0",
+    "react-bootstrap": "^1.0.0-beta.12",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1",
+    "sass": "^1.83.4",
+    "typescript": "3.5.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "prettier": "^1.18.2",
+    "tslint": "^5.19.0",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.0.1",
+    "tslint-react": "^4.0.0"
+  }
+}
